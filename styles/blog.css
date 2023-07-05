@@ -3,6 +3,6 @@ div{
     padding: 10px;
     margin: 40px;
     border: 5px solid  rebeccapurple;
-    border-radius: 10px black;
+    border-radius: 10px;
     box-shadow: 10px 10px 20px;
 }
